@@ -1,3 +1,3 @@
 # mni-repo
 mni-repo for practice
-this is third line
+this is 3rd line
